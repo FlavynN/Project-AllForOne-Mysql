@@ -5,6 +5,7 @@ A project where you practice you capability to make sql queries.
 ## Technologies Used
 
 * MySQL
+* JavaScript
 
 ## What was built?
 
